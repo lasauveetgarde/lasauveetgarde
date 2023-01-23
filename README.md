@@ -30,5 +30,4 @@
 <div align="center">
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lasauveetgarde&theme=tokyonight"/>
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lasauveetgarde&theme=tokyonight"/>
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lasauveetgarde&theme=tokyonight&utcOffset=8"/>
 </div>
