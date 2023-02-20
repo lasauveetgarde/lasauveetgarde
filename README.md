@@ -21,13 +21,3 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original-wordmark.svg" title="numpy" width="40" height="40"/>&nbsp;
 </div>    
 
-### MY Stat
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lasauveetgarde&theme=tokyonight" width="1000" height="200"/>
-</div>
-
-<div align="center">
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lasauveetgarde&theme=tokyonight"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lasauveetgarde&theme=tokyonight"/>
-</div>
